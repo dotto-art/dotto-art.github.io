@@ -4,7 +4,8 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <img alt="" src="https://raw.githubusercontent.com/dotto-art/dotto-art.github.io/master/_includes/background1500x500.jpg" style="transform: none;">
+  <h1 class="page-heading">exhibits</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -12,7 +13,7 @@ layout: default
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img style="max-height: 100px; max-width: 100px;" src="{{ post.imageUrl }}"/> {{ post.title }}</a>
         </h2>
       </li>
     {% endfor %}
