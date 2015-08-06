@@ -1,0 +1,14 @@
+# Site settings
+title: dotto.art
+email: darrellwotto@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Art /illustrations /dad /friend /punk
+  
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+twitter_username: darrellwotto
+pintrest_username: 
+# github_username:  dotto-art
+# Build settings
+markdown: kramdown
+highlighter: none
