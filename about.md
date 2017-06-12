@@ -3,10 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-dotto.art
 
-![alt text]({{ site.url }}/assets/dotto.png "DOTTO.ART  Angry whales via Dart.Studio.")
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-[darrellwotto@gmail.com](mailto: darrellwotto@gmail.com)
+You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
- Art /illustrations /dad /friend /punk
+You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)

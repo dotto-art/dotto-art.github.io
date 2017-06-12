@@ -1,1 +1,0 @@
-# Art /illustrations /dad /friend /punk
