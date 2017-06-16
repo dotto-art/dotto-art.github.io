@@ -191,3 +191,8 @@ footer p {
         clear: both;
     }
 }
+.img-responsive {
+  display: inline;
+  max-width: 100%;
+  height: auto;
+}
